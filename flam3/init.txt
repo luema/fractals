@@ -1,2 +1,0 @@
-Does github really not allow you to create empty folders?
-This file would not exist otherwise.
