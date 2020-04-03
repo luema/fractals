@@ -1,0 +1,50 @@
+<flames>
+<flame version="EMBER-WIN-1.0.0.17" time="0" name="Flame_2020-02-08-185154_2" size="2880 1800" center="0.0336946 0.0719015" scale="2210" rotate="173" supersample="2" filter="0.8" filter_shape="mitchell" temporal_filter_type="gaussian" temporal_filter_width="1" quality="1000" temporal_samples="100" sub_batch_size="10240" fuse="15" rand_range="1" background="0 0 0" brightness="0.55" gamma="3.6" highlight_power="1" logscale_k2="0" vibrancy="1" estimator_radius="0" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0.1" cam_zpos="0" cam_persp="0" cam_yaw="0" cam_pitch="0.523599" cam_dof="0" palette_mode="linear" interpolation="linear" interpolation_type="log" plugins="cross sineblur pre_eJulia bipolar post_polar2" new_linear="1" curves="0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 " overall_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " red_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " green_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " blue_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 ">
+   <xform weight="0.05" color="0.725" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="0.314722 0.646929 -0.646929 0.314722 1.61481 0.740741" post="0.219152 0.975281 -0.975281 0.219152 1.74223 0.666344" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.25" color="0.725" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" cross="1.6" coefs="0.273919 -0.665233 0.665233 0.273919 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.25" color="0.725" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.25" color="0.725" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.045" color="0.725" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="1.2" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 0 0 0 1 0 " opacity="1"/>
+   <xform weight="0.05" color="0.725" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 0 0 0 0 1 " opacity="1"/>
+   <finalxform color="0" var_color="1" color_speed="0.5" symmetry="0" name="" animate="0" pre_eJulia="1" pre_eJulia_power="2" bipolar="2.95" bipolar_shift="-0.5" post_polar2="1" coefs="-14.992 5.54689 -2.30699 -16.9057 13.5243 -4.84804" opacity="1"/>
+   <palette count="256" format="RGB">
+      B6997BADA195B0A59BB4AAA1B8B2ACBCBBB7C0BFBEC4C4C6
+      D5D4D2E1DEDDEDE9E8F9F8F2FFFFFCFCFAF3F3EEEBEBE6E3
+      E4DFDCD2C7C5D2C9C2D3CBC0D8CFC7DDD4CFE6D9CCEFDECA
+      F3E0C2FCE0B3FFE1A5FFE199FFE28EFADB90F0D493F4CD96
+      EED49BDBCDB3EBDBC2FCEAD2FFF4D7FFFEDDFFFCDCFFFBDB
+      F3E5D8E5D8C9D8CBBBCFC6B4C6C1AEC3BEB3C1BCB8C0BBB7
+      BFBBB8C1B2ABC3B3A5C5B4A0C2B2A3BFB1A6BDB1A7BBB2A9
+      C6C1BECEC9C5D6D1CDE6DCD0F7E8D3FBECD3FFF0D3FFF9C5
+      FFFAC4FFFF98FFFF95FFFF93FFFF92FFFF91FFFF90FFFF86
+      FFF48FFFE18EF7CE8EECC08AE2B387EEB886FBBE85FFD17E
+      FFE389F1E7B2E3D6B1D5C6B1D4C2B1D4BEB1C5B7ACB6AFA9
+      AEA4A3AFA9A6B1AEA9B3AFAAB6B1ABBBB9BAC9C5C4D5D4D2
+      E3DFDCFFF0DAFFEBBFFFE7A4FFE3A2FFDFA1FFC18ED8AE84
+      C6B196C2AA94BEA493BDA48FBCA48CB8A795B1A599A5A09A
+      A39A918B7E75867D64827D537D6F627B746E888075A49E8E
+      CFC0ADEED4ABFFE8A9FFE6A0FFE597FFEF9BFFFF90FFFF99
+      FFFFA2FFEDC2FCEAC2F6E8C3F1E0C6F0DAC2D9D3C5D2C6BA
+      D0B5AACBB8B2C7BCBAC7BEBCC8C0BEC3BFC0C8C4C1CCC2B9
+      C9BFB6C3B9AFC2B6ADC1B4ACBEAFA8C1ADA2BFAF9FBFAA97
+      B7A591B9AD8FBBB68EBBB279BDA775C49E79C7A37FC5A88A
+      C4B29ACEC5BED0C9C3D3CEC8DCCECBDED1C9EDDABCE7CE95
+      BFA278A58E738B7B6E84766B897D718B887FA09792BAA18B
+      D4A579DEB18AF9CB80FFD977FFE77CFFF579FFFF7FFFE581
+      FFF4AAFFF4B4FFF5BEFFF3BCFFE9AAFFEC9CFFFF8CFFFF8F
+      FFF2A1FDF7B9F3ECBEE3D0BFDAC8BACBC3B6C3B4B1BBB0AE
+      BCB2A9BCAFA7BCB0A4B6AA9CAD9F9CAC9F99A5A19EAFA1A1
+      B6ACAAC3BAB5C9C0B9CFC6B7D4C7B6DCCCBCD8D1BED7CDC3
+      D4CAC1D5C9BBD3C6BED2C7C3CFC4C0CAC5C1CBC6C2CFC6C1
+      CEC9C5CFCCC5D2CECBD4CFCCD3D2CED5D5D5D6D5D3DAD5D1
+      DFD6CFF0DFCBF3E5C0F7E4C6F4DED1E7DED9E0DBD7DAD6D5
+      E1E0DBEAE7DEEFEEECEFEEECEFEAE7E7E7DDDED9D5D7CEC9
+      C9C5C2C4BAB8B9B5B2B7ADABB8ADA9B7A8A3B4A699B3A290
+   </palette>
+   <edit date="Thu Feb 13 21:21:55 -0500 2020" action="edit">
+      <edit date="Sat Feb 08 21:03:58 -0500 2020" action="edit" filename="C:/Users/Sameul/AppData/Roaming/Fractorium/lastonshutdown.flame" index="0">
+         <edit filename="D:/Users/Sameul/Documents/Fractals/trial.flam3" index="0"/>
+      </edit>
+   </edit>
+</flame>
+</flames>

@@ -1,0 +1,54 @@
+<flames>
+<flame version="EMBER-WIN-1.0.0.17" time="0" name="Flame_2020-02-13-230858_18" size="2880 1800" center="-0.20254 -0.150742" scale="4960" rotate="173" supersample="2" filter="0.8" filter_shape="mitchell" temporal_filter_type="gaussian" temporal_filter_width="1" quality="1000" temporal_samples="100" sub_batch_size="10240" fuse="15" rand_range="1" background="0 0 0" brightness="0.55" gamma="3.6" highlight_power="1" logscale_k2="0" vibrancy="1" estimator_radius="0" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0.1" cam_zpos="0" cam_persp="0" cam_yaw="0" cam_pitch="0.523599" cam_dof="0" palette_mode="linear" interpolation="linear" interpolation_type="log" plugins="cross sineblur bipolar post_polar2 post_julia3D" new_linear="1" curves="0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 " overall_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " red_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " green_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " blue_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 ">
+   <xform weight="0.05" color="0" var_color="1" color_speed="0.944075" symmetry="-0.88815" name="" animate="0" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="0.314722 0.646929 -0.646929 0.314722 1.61481 0.740741" post="0.219152 0.975281 -0.975281 0.219152 1.74223 0.666344" chaos="99 99 99 99 0 1 0 99 " opacity="1"/>
+   <xform weight="1.2" color="1" var_color="1" color_speed="0.95428" symmetry="-0.90856" name="" animate="0" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 -0.54 -0.802222" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 99 99 99 0 1 0 10 " opacity="1"/>
+   <xform weight="1.2" color="0" var_color="1" color_speed="0.271835" symmetry="0.45633" name="" animate="1" cross="1.6" coefs="0.342755 0.632524 -0.632524 0.342755 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0.01 9 99 99 0 1 0 10 " opacity="1"/>
+   <xform weight="1.2" color="1" var_color="1" color_speed="0.236006" symmetry="0.527988" name="" animate="0" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0.01 9 99 99 0 1 0 1 " opacity="1"/>
+   <xform weight="0.045" color="0" var_color="1" color_speed="0.791613" symmetry="-0.583226" name="" animate="0" cross="1.6" sineblur="0.0004" sineblur_power="1.2" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0.7 10 9 1 0 1 0 5 " opacity="1"/>
+   <xform weight="0.05" color="1" var_color="1" color_speed="0.873906" symmetry="-0.747812" name="" animate="0" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 0 0 0 1 0 5 0 " opacity="1"/>
+   <xform weight="0.045" color="0" var_color="1" color_speed="0.791613" symmetry="-0.583226" name="" animate="0" cross="1.6" sineblur="0.0004" sineblur_power="1.2" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 1 1 " opacity="1"/>
+   <xform weight="0.05" color="1" var_color="1" color_speed="0.873906" symmetry="-0.747812" name="" animate="0" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1.5 5 5 5 0 0 1 1 " opacity="1"/>
+   <finalxform color="0" var_color="1" color_speed="0.672202" symmetry="-0.344404" name="" animate="0" bipolar="2.95" bipolar_shift="-0.5" post_polar2="1" post_julia3D="0.65" post_julia3D_power="2" coefs="-14.992 5.54689 -2.30699 -16.9057 13.5243 -4.84804" opacity="1"/>
+   <palette count="256" format="RGB">
+      56A2B44FA4BB4FA3BD50A2BF56A3BE5DA4BD60A4BC64A4BC
+      69A3B966A7B764ABB661B0B45EB6B35ABEB257C6B157CAB0
+      58CEAF5FDFB266E2B26DE6B275E7AF7DE9AD80E8AB83E7AA
+      91E2A495DFA499DCA49DD9A4A2D7A4A1D6A3A0D6A3A1D2A2
+      A3CEA4A6C4ACA7BEAFA8B9B3A9B2B5ABACB8ADA8B7B0A5B7
+      BD95B4C08BB5C382B7C37BBAC475BDC172BFBE6FC1B86AC5
+      B167CAA365D19C67D3956AD68E6CD5876ED58570D38472D1
+      837AC8877AC78C7BC68E78C49176C29074C09072BF8D6EBA
+      8B69B48867AA8566A98365A98164A97F64A97F62AA7F62AA
+      7D63AB7E67A97F6BA87F6CAA7F6DAC7E6DAC7E6DAC7D6BAA
+      7D6AA7806BA67E6BA97C6CAD7B6BB07B6BB3796AB77567BC
+      6C62BD6867BD646CBE626FC06072C25B79C85780CA5386CB
+      4E8ECC459EC53EA1BE37A5B737A7B337A9B039AFAC3AB7A8
+      39BEA037BF9D35C09B33BF9B32BF9B32BF9636BF913DBF8D
+      44BF8C52BD8854BC8756BB875CB58166B27D70B3787BB673
+      8CBB6A92B86698B56298B26299AF629CA962A3A462A9A067
+      AF9D6CB69A7EB59781B59485B78B8BBB818EC37993CB7397
+      DD6C9EE266A2E760A6E75CA8E858AAE852AEE74EB2E64BB3
+      E54AB2E44EB1E34FB0E351AFE251ABE24FABE34CADE347B1
+      E540B6E23FB5E03EB4DA3EB2D43DB0CC3DAEC53EACBE3FAD
+      B83EACAB41A4A7429FA3439B9A469194488B9049878D4886
+      8E47848D47838D47838F4784914384914083913C88903590
+      912D989126A29120A78F1DA58D1DA48C1EA28A20A08B249E
+      9324959424949624939920919B1D909D1C909D1B919E1A8F
+      A21A92AA1C96AF1D99B31D99B61C9AB51B98B11E95AC2091
+      A6248A9F2883972B7B902E79893479803A7B763E796D4178
+      694678664B7A634F7C62538262558860588F5D5C985B609F
+      5C65A45C68A55E69A7616BAC636DB2626DB85E6BBB5C6ABE
+      5B6BC05A6DC45B72CA5F79CD657FCF6986D26C8CD37091D2
+      7295D07195CD7098CB719CCA72A0C9739FC9749BC97797C9
+      7991C87E89C88182C7867BC28975BE8772BA8671B58373B2
+      7F74AF7978AE717EAD6D88AE698FAF6595B0619AB15A9FB3
+   </palette>
+   <edit date="Fri Feb 21 10:29:53 -0500 2020" action="edit">
+      <edit date="Thu Feb 20 23:01:02 -0500 2020" action="edit" filename="D:/Users/Sameul/Documents/Fractals/animate_purple.flam3" index="0">
+         <edit date="Sat Feb 08 21:03:58 -0500 2020" action="edit" filename="D:/Users/Sameul/Documents/Fractals/Macbook/BOOK COVERs.flam3" index="17">
+            <edit filename="D:/Users/Sameul/Documents/Fractals/trial.flam3" index="0"/>
+         </edit>
+      </edit>
+   </edit>
+</flame>
+</flames>

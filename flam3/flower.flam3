@@ -1,0 +1,278 @@
+<flames>
+<flame version="EMBER-WIN-1.0.0.17" time="0" name="Flame_2020-02-08-185154_2" size="2880 1800" center="0.220424 0.0734023" scale="3710" rotate="173" supersample="2" filter="0.8" filter_shape="mitchell" temporal_filter_type="gaussian" temporal_filter_width="1" quality="1000" temporal_samples="100" sub_batch_size="10240" fuse="15" rand_range="1" background="0 0 0" brightness="0.55" gamma="3.6" highlight_power="1" logscale_k2="0" vibrancy="1" estimator_radius="0" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0.1" cam_zpos="0" cam_persp="0" cam_yaw="0" cam_pitch="0.523599" cam_dof="0" palette_mode="linear" interpolation="linear" interpolation_type="log" plugins="cross sineblur pre_eJulia bipolar post_polar2" new_linear="1" curves="0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 " overall_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " red_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " green_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " blue_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 ">
+   <xform weight="0.05" color="0" var_color="1" color_speed="0.809338" symmetry="-0.618675" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="0.314722 0.646929 -0.646929 0.314722 1.61481 0.740741" post="0.219152 0.975281 -0.975281 0.219152 1.74223 0.666344" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.25" color="1" var_color="1" color_speed="0.0275844" symmetry="0.944831" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.25" color="0" var_color="1" color_speed="0.145147" symmetry="0.709707" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.25" color="1" var_color="1" color_speed="0.380921" symmetry="0.238157" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.045" color="0" var_color="1" color_speed="0.0108344" symmetry="0.978331" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="1.2" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 0 0 0 1 0 " opacity="1"/>
+   <xform weight="0.05" color="1" var_color="1" color_speed="0.0914179" symmetry="0.817164" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 0 0 0 0 1 " opacity="1"/>
+   <finalxform color="0" var_color="1" color_speed="0.361029" symmetry="0.277943" name="" animate="0" pre_eJulia="1" pre_eJulia_power="2" bipolar="2.95" bipolar_shift="-0.5" post_polar2="1" coefs="-14.992 5.54689 -2.30699 -16.9057 13.5243 -4.84804" opacity="1"/>
+   <palette count="256" format="RGB">
+      56A2B44FA4BB4FA3BD50A2BF56A3BE5DA4BD60A4BC64A4BC
+      69A3B966A7B764ABB661B0B45EB6B35ABEB257C6B157CAB0
+      58CEAF5FDFB266E2B26DE6B275E7AF7DE9AD80E8AB83E7AA
+      91E2A495DFA499DCA49DD9A4A2D7A4A1D6A3A0D6A3A1D2A2
+      A3CEA4A6C4ACA7BEAFA8B9B3A9B2B5ABACB8ADA8B7B0A5B7
+      BD95B4C08BB5C382B7C37BBAC475BDC172BFBE6FC1B86AC5
+      B167CAA365D19C67D3956AD68E6CD5876ED58570D38472D1
+      837AC8877AC78C7BC68E78C49176C29074C09072BF8D6EBA
+      8B69B48867AA8566A98365A98164A97F64A97F62AA7F62AA
+      7D63AB7E67A97F6BA87F6CAA7F6DAC7E6DAC7E6DAC7D6BAA
+      7D6AA7806BA67E6BA97C6CAD7B6BB07B6BB3796AB77567BC
+      6C62BD6867BD646CBE626FC06072C25B79C85780CA5386CB
+      4E8ECC459EC53EA1BE37A5B737A7B337A9B039AFAC3AB7A8
+      39BEA037BF9D35C09B33BF9B32BF9B32BF9636BF913DBF8D
+      44BF8C52BD8854BC8756BB875CB58166B27D70B3787BB673
+      8CBB6A92B86698B56298B26299AF629CA962A3A462A9A067
+      AF9D6CB69A7EB59781B59485B78B8BBB818EC37993CB7397
+      DD6C9EE266A2E760A6E75CA8E858AAE852AEE74EB2E64BB3
+      E54AB2E44EB1E34FB0E351AFE251ABE24FABE34CADE347B1
+      E540B6E23FB5E03EB4DA3EB2D43DB0CC3DAEC53EACBE3FAD
+      B83EACAB41A4A7429FA3439B9A469194488B9049878D4886
+      8E47848D47838D47838F4784914384914083913C88903590
+      912D989126A29120A78F1DA58D1DA48C1EA28A20A08B249E
+      9324959424949624939920919B1D909D1C909D1B919E1A8F
+      A21A92AA1C96AF1D99B31D99B61C9AB51B98B11E95AC2091
+      A6248A9F2883972B7B902E79893479803A7B763E796D4178
+      694678664B7A634F7C62538262558860588F5D5C985B609F
+      5C65A45C68A55E69A7616BAC636DB2626DB85E6BBB5C6ABE
+      5B6BC05A6DC45B72CA5F79CD657FCF6986D26C8CD37091D2
+      7295D07195CD7098CB719CCA72A0C9739FC9749BC97797C9
+      7991C87E89C88182C7867BC28975BE8772BA8671B58373B2
+      7F74AF7978AE717EAD6D88AE698FAF6595B0619AB15A9FB3
+   </palette>
+   <edit date="Sat Feb 08 21:03:58 -0500 2020" action="edit">
+      <edit filename="D:/Users/Sameul/Documents/Fractals/trial.flam3" index="0"/>
+   </edit>
+</flame>
+<flame version="EMBER-WIN-1.0.0.17" time="1" name="Flame_2020-02-08-211350_2" size="2880 1800" center="0.220424 0.0734023" scale="3710" rotate="173" supersample="2" filter="0.8" filter_shape="mitchell" temporal_filter_type="gaussian" temporal_filter_width="1" quality="1000" temporal_samples="100" sub_batch_size="10240" fuse="15" rand_range="1" background="0 0 0" brightness="0.55" gamma="3.6" highlight_power="1" logscale_k2="0" vibrancy="1" estimator_radius="0" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0.1" cam_zpos="0" cam_persp="0" cam_yaw="0" cam_pitch="0.523599" cam_dof="0" palette_mode="linear" interpolation="linear" interpolation_type="log" plugins="cross sineblur pre_eJulia bipolar post_polar2" new_linear="1" curves="0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 " overall_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " red_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " green_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " blue_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 ">
+   <xform weight="0.05" color="0.504968" var_color="1" color_speed="0" symmetry="1" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="0.314722 0.646929 -0.646929 0.314722 1.61481 0.740741" post="0.219152 0.975281 -0.975281 0.219152 1.74223 0.666344" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.25" color="0.883076" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.25" color="0.978253" var_color="1" color_speed="0" symmetry="1" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.25" color="0.0651475" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.045" color="0.885463" var_color="1" color_speed="0" symmetry="1" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="1.2" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 0 0 0 1 0 " opacity="1"/>
+   <xform weight="0.05" color="0.800451" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 0 0 0 0 1 " opacity="1"/>
+   <finalxform color="0.447" var_color="1" color_speed="0" symmetry="1" name="" animate="0" pre_eJulia="1" pre_eJulia_power="2" bipolar="2.95" bipolar_shift="-0.5" post_polar2="1" coefs="-14.992 5.54689 -2.30699 -16.9057 13.5243 -4.84804" opacity="1"/>
+   <palette count="256" format="RGB">
+      73E5B4629ACB6688DB6B76EC7770E9836BE78069EA7D67ED
+      7172F18389F096A1F096A2B597A37B8EA07D869D807A9496
+      6E8BAD8696E37D99E7749DEC8F93C1AA8A97AF7E85B57374
+      D09F67C49976B99386B19492A9959E9C7EC59068ED8062E6
+      707BF16AB0F569BFE469CFD377D3C185D7AF8ED4AD98D2AC
+      9ECDA38FC79480C2857DCC917BD69D7CDBA07EE0A37CD7AC
+      79D6B979DEB67BD8B47ED3B282D1B686CFBB83CCC081C9C6
+      97C8C4A3C9B2B0CBA0B4C69DB9C19AAFB994A6B28E98B28D
+      93B87380CE828BCB8997C890A3C492B0C194CFA283D79A7D
+      E8A85EDCA15DD09A5CBE976AAD9579AF9D7EB2A5839FC095
+      88E6A87FF0B875F3B66CF7B46AF3C268EFD173E4C87CE6CF
+      A6EAD19FE0BF99D7AE95D5AB91D4A88FD2A68ADA9F99D29D
+      ABCA84989F6C9A9F6B9C9F6A97A16E93A37286A586629CCA
+      49CAA45AD3A56BDCA65DD7B44FD2C25CCECF60C8D156D3CB
+      54E5C471E7AB77E7B27DE7B97EE4BD78E9B175DCA565EEAA
+      5EF59861F0A264ECAC6DE4B876DCC47FDCD17FD7E36FD3E3
+      56D1F235B9E93CB2F044ABF84BBCE654C6E076CFDD71D4CF
+      83CBA380BF8E7DB47A7CB3737BB36C80B7748ABC8192B08A
+      99BA9D78C3BC71B7C66BABD177BBC49AB2A593A374918964
+      AD7850AF7C52B18055C47557C87E59C48053D18353E39F54
+      EBAD5AC1BE61B7CA6BAED67697F2A276E8A36BDFB252CFC7
+      48B9E14EADE755A1ED5F90EF5793DC5B9EE4619DE378B3DB
+      84BFC788CCA582BCA389BF8E93BC8495B47899A67BACA078
+      C2B06EC1BB6EC0C66EA6D57994DD8B7CE89281E59D7CE4A7
+      6BD9BE61D6D05FDED558E4D958DDE655DEE646CCF138C3EE
+      3EAAEA49A8FC57A5F85399F83D97F73B8AF1488CF14F8EF7
+      5995F55E94F46A94EA7682F26591EA6793D479A9D17BC0AD
+      7ABA9590BA7B8FC16C86B57185B8698EAA6098AF67B8B159
+      C29341BE7B51BA8058AF9584A8A99B6BAFC655ADD547B1EB
+      419CF73397E53E95E553A8DF53BFD954D9D461E9E568F6DE
+      78EAE280DFE382ECE886E9E492ECE082F6D388DCBB98D1B0
+      9DC1A7A1A6889D9370A591569E8B5385A86E75E79F72CB7B
+   </palette>
+   <edit date="Sat Feb 08 21:03:58 -0500 2020" action="edit">
+      <edit filename="D:/Users/Sameul/Documents/Fractals/trial.flam3" index="0"/>
+   </edit>
+</flame>
+<flame version="EMBER-WIN-1.0.0.17" time="2" name="Flame_2020-02-08-211745_3" size="1920 1080" center="0.201287 -0.0141983" scale="3710" rotate="173" supersample="2" filter="0.8" filter_shape="mitchell" temporal_filter_type="gaussian" temporal_filter_width="1" quality="1000" temporal_samples="100" sub_batch_size="10240" fuse="15" rand_range="1" background="0 0 0" brightness="0.55" gamma="3.6" highlight_power="1" logscale_k2="0" vibrancy="1" estimator_radius="0" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0.1" cam_zpos="0" cam_persp="0" cam_yaw="0" cam_pitch="0.523599" cam_dof="0" palette_mode="linear" interpolation="linear" interpolation_type="log" plugins="cross sineblur pre_eJulia bipolar post_polar2" new_linear="1" curves="0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 " overall_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " red_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " green_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " blue_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 ">
+   <xform weight="0.05" color="0" var_color="1" color_speed="-0.8" symmetry="2.6" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="0.314722 0.646929 -0.646929 0.314722 1.61481 0.740741" post="0.219152 0.975281 -0.975281 0.219152 1.74223 0.666344" chaos="1 1 1 1 0 0 " opacity="0.2"/>
+   <xform weight="0.25" color="1" var_color="1" color_speed="-0.1" symmetry="1.2" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="0.2"/>
+   <xform weight="0.25" color="0.121569" var_color="1" color_speed="0" symmetry="1" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.25" color="0.407843" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.045" color="0" var_color="1" color_speed="1" symmetry="-1" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="1.2" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 0 0 0 1 0 " opacity="0.1"/>
+   <xform weight="0.05" color="1" var_color="1" color_speed="-1" symmetry="3" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 0 0 0 0 1 " opacity="0.2"/>
+   <finalxform color="0" var_color="1" color_speed="0.665049" symmetry="-0.330099" name="" animate="0" pre_eJulia="1" pre_eJulia_power="2" bipolar="2.95" bipolar_shift="-0.5" post_polar2="1" coefs="-14.992 5.54689 -2.30699 -16.9057 13.5243 -4.84804" opacity="1"/>
+   <palette count="256" format="RGB">
+      7A65B87979B77D83B9828DBC8494C1879CC7889EC889A0CA
+      8999C07F91B77689AE6C83A6637E9F5D789E57729E526E9E
+      4E6A9E3D5AA43555A32E51A32B4DA3294AA42A4AA32C4BA2
+      4154A74E59AD5B5EB36564BB706AC4736EC77672CA807BCC
+      8984CE9C99D1A3A5D2ABB2D3AEC0D8B2CEDDB1D2DFB1D7E2
+      A5E0E79CDEE394DDDF8ED5DC88CEDA85CBD783C8D47ABDCD
+      74B6C85EA8BE509DB64392AE3887A32E7C992A779426738F
+      225C7B22517322466B203C661E33611D305E1C2D5C1A2A5A
+      17295C0D38610C42660C4C6C0D51710F5776126181176B8C
+      287DA13085AD398DBA3C99C43FA6CE3FACD140B2D540BEDD
+      3DCEE435DFEE34E2EF34E5F135E4F137E3F23AE0F23BE1F0
+      40DAE842D9DD45D9D243DACC41DBC73EDEBE3CDEBB40DDBB
+      48DCBA5ADEBD61D8C169D2C66FCEC275CBBE78C3B977B9B3
+      72A5A76F9AA16C909C6A8E99698C9768829769779E6D6CA1
+      6E64A36C5FA16A5DA1695CA15F579F58569C4F5999495E97
+      4D699C4F739F517DA35283A4548AA55994AB5A9DB55BA9BE
+      56B4C748CCD346D1D544D6D840D9DE3DDEE33DE5E541E6E4
+      53EBED5AECEF61EEF262EEF263EEF263EFF35FEFF35AEDF4
+      54EEF34DF1F14FF1F152F2F25AF1F365F1F373F0F483F2F5
+      97F5F999F4F99CF3F999F0F793E9F48DE2F18ADFEE88DBEB
+      89D6E794D4E496D4E399D5E39DD9E49EDBE49FDCE59CDBE6
+      9BDCE79BDAE69BD9E59BD7E49BD5E599D2E397CDE291C7DE
+      89BFDA7EBAD772B5D46AB2D166ADCE66AFCB69AECC70B1CC
+      86AECC88ABCA8BA9C88D9FC38599BF7B95BA708EB6668DB1
+      5A90AF5099AD4AA2AF4AAEB14BB4B151B7B058B5AD5DB5AE
+      63AEB26CA6B46F9FB56D9BB36995B2678BAF6084AA5B81A6
+      587A9C5979925B6D89666489755F8C855F90906498A168A0
+      AC6BA7B470B0B676B5B985B7B78CB2B892B2BD9AB4C3A1B9
+      C9AEC1CFB9CBD4C0D5DCC3DDDDC6E7DAD0EFD2DAF2C6DFF2
+      B9DFF0ACDBEBA0D2E294C6DB87BAD57EACCF7A9ECF7991CD
+      7384C86978C15D6BBB5064B5445EAD3B60AB2F60A62C61A3
+      2F5DA33D59A74853AA534FAC5D4BB06950B47150B37C5DB9
+   </palette>
+   <edit date="Sat Feb 08 21:03:58 -0500 2020" action="edit">
+      <edit filename="D:/Users/Sameul/Documents/Fractals/trial.flam3" index="0"/>
+   </edit>
+</flame>
+<flame version="EMBER-WIN-1.0.0.17" time="3" name="Flame_2020-02-08-213029_4" size="2880 1800" center="0.220424 0.0734023" scale="3710" rotate="173" supersample="2" filter="0.8" filter_shape="mitchell" temporal_filter_type="gaussian" temporal_filter_width="1" quality="1000" temporal_samples="100" sub_batch_size="10240" fuse="15" rand_range="1" background="0 0 0" brightness="0.55" gamma="3.6" highlight_power="1" logscale_k2="0" vibrancy="1" estimator_radius="0" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0.1" cam_zpos="0" cam_persp="0" cam_yaw="0" cam_pitch="0.523599" cam_dof="0" palette_mode="linear" interpolation="linear" interpolation_type="log" plugins="cross sineblur pre_eJulia bipolar post_polar2" new_linear="1" curves="0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 " overall_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " red_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " green_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " blue_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 ">
+   <xform weight="0.05" color="0" var_color="1" color_speed="-0.8" symmetry="2.6" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="0.314722 0.646929 -0.646929 0.314722 1.61481 0.740741" post="0.219152 0.975281 -0.975281 0.219152 1.74223 0.666344" chaos="1 1 1 1 0 0 " opacity="0.2"/>
+   <xform weight="0.25" color="1" var_color="1" color_speed="-0.1" symmetry="1.2" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="0.2"/>
+   <xform weight="0.25" color="0.121569" var_color="1" color_speed="0" symmetry="1" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.25" color="0.407843" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.045" color="0" var_color="1" color_speed="1" symmetry="-1" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="1.2" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 0 0 0 1 0 " opacity="0.1"/>
+   <xform weight="0.05" color="1" var_color="1" color_speed="-1" symmetry="3" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 0 0 0 0 1 " opacity="0.2"/>
+   <finalxform color="0" var_color="1" color_speed="0.665049" symmetry="-0.330099" name="" animate="0" pre_eJulia="1" pre_eJulia_power="2" bipolar="2.95" bipolar_shift="-0.5" post_polar2="1" coefs="-14.992 5.54689 -2.30699 -16.9057 13.5243 -4.84804" opacity="1"/>
+   <palette count="256" format="RGB">
+      7A65B87979B77D83B9828DBC8494C1879CC7889EC889A0CA
+      8999C07F91B77689AE6C83A6637E9F5D789E57729E526E9E
+      4E6A9E3D5AA43555A32E51A32B4DA3294AA42A4AA32C4BA2
+      4154A74E59AD5B5EB36564BB706AC4736EC77672CA807BCC
+      8984CE9C99D1A3A5D2ABB2D3AEC0D8B2CEDDB1D2DFB1D7E2
+      A5E0E79CDEE394DDDF8ED5DC88CEDA85CBD783C8D47ABDCD
+      74B6C85EA8BE509DB64392AE3887A32E7C992A779426738F
+      225C7B22517322466B203C661E33611D305E1C2D5C1A2A5A
+      17295C0D38610C42660C4C6C0D51710F5776126181176B8C
+      287DA13085AD398DBA3C99C43FA6CE3FACD140B2D540BEDD
+      3DCEE435DFEE34E2EF34E5F135E4F137E3F23AE0F23BE1F0
+      40DAE842D9DD45D9D243DACC41DBC73EDEBE3CDEBB40DDBB
+      48DCBA5ADEBD61D8C169D2C66FCEC275CBBE78C3B977B9B3
+      72A5A76F9AA16C909C6A8E99698C9768829769779E6D6CA1
+      6E64A36C5FA16A5DA1695CA15F579F58569C4F5999495E97
+      4D699C4F739F517DA35283A4548AA55994AB5A9DB55BA9BE
+      56B4C748CCD346D1D544D6D840D9DE3DDEE33DE5E541E6E4
+      53EBED5AECEF61EEF262EEF263EEF263EFF35FEFF35AEDF4
+      54EEF34DF1F14FF1F152F2F25AF1F365F1F373F0F483F2F5
+      97F5F999F4F99CF3F999F0F793E9F48DE2F18ADFEE88DBEB
+      89D6E794D4E496D4E399D5E39DD9E49EDBE49FDCE59CDBE6
+      9BDCE79BDAE69BD9E59BD7E49BD5E599D2E397CDE291C7DE
+      89BFDA7EBAD772B5D46AB2D166ADCE66AFCB69AECC70B1CC
+      86AECC88ABCA8BA9C88D9FC38599BF7B95BA708EB6668DB1
+      5A90AF5099AD4AA2AF4AAEB14BB4B151B7B058B5AD5DB5AE
+      63AEB26CA6B46F9FB56D9BB36995B2678BAF6084AA5B81A6
+      587A9C5979925B6D89666489755F8C855F90906498A168A0
+      AC6BA7B470B0B676B5B985B7B78CB2B892B2BD9AB4C3A1B9
+      C9AEC1CFB9CBD4C0D5DCC3DDDDC6E7DAD0EFD2DAF2C6DFF2
+      B9DFF0ACDBEBA0D2E294C6DB87BAD57EACCF7A9ECF7991CD
+      7384C86978C15D6BBB5064B5445EAD3B60AB2F60A62C61A3
+      2F5DA33D59A74853AA534FAC5D4BB06950B47150B37C5DB9
+   </palette>
+   <edit date="Sat Feb 08 21:03:58 -0500 2020" action="edit">
+      <edit filename="D:/Users/Sameul/Documents/Fractals/trial.flam3" index="0"/>
+   </edit>
+</flame>
+<flame version="EMBER-WIN-1.0.0.17" time="4" name="Flame_2020-02-08-213047_5" size="2880 1800" center="0.220424 0.0734023" scale="3710" rotate="173" supersample="2" filter="0.8" filter_shape="mitchell" temporal_filter_type="gaussian" temporal_filter_width="1" quality="1000" temporal_samples="100" sub_batch_size="10240" fuse="15" rand_range="1" background="0 0 0" brightness="0.55" gamma="3.6" highlight_power="1" logscale_k2="0" vibrancy="1" estimator_radius="0" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0.1" cam_zpos="0" cam_persp="0" cam_yaw="0" cam_pitch="0.523599" cam_dof="0" palette_mode="linear" interpolation="linear" interpolation_type="log" plugins="cross sineblur pre_eJulia bipolar post_polar2" new_linear="1" curves="0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 " overall_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " red_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " green_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " blue_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 ">
+   <xform weight="0.05" color="0" var_color="1" color_speed="0.809338" symmetry="-0.618675" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="0.314722 0.646929 -0.646929 0.314722 1.61481 0.740741" post="0.219152 0.975281 -0.975281 0.219152 1.74223 0.666344" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.25" color="1" var_color="1" color_speed="0.0275844" symmetry="0.944831" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.25" color="0" var_color="1" color_speed="0.145147" symmetry="0.709707" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.25" color="1" var_color="1" color_speed="0.380921" symmetry="0.238157" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.045" color="0" var_color="1" color_speed="0.0108344" symmetry="0.978331" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="1.2" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 0 0 0 1 0 " opacity="1"/>
+   <xform weight="0.05" color="1" var_color="1" color_speed="0.0914179" symmetry="0.817164" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 0 0 0 0 1 " opacity="1"/>
+   <finalxform color="0" var_color="1" color_speed="0.361029" symmetry="0.277943" name="" animate="0" pre_eJulia="1" pre_eJulia_power="2" bipolar="2.95" bipolar_shift="-0.5" post_polar2="1" coefs="-14.992 5.54689 -2.30699 -16.9057 13.5243 -4.84804" opacity="1"/>
+   <palette count="256" format="RGB">
+      7A65B87979B77D83B9828DBC8494C1879CC7889EC889A0CA
+      8999C07F91B77689AE6C83A6637E9F5D789E57729E526E9E
+      4E6A9E3D5AA43555A32E51A32B4DA3294AA42A4AA32C4BA2
+      4154A74E59AD5B5EB36564BB706AC4736EC77672CA807BCC
+      8984CE9C99D1A3A5D2ABB2D3AEC0D8B2CEDDB1D2DFB1D7E2
+      A5E0E79CDEE394DDDF8ED5DC88CEDA85CBD783C8D47ABDCD
+      74B6C85EA8BE509DB64392AE3887A32E7C992A779426738F
+      225C7B22517322466B203C661E33611D305E1C2D5C1A2A5A
+      17295C0D38610C42660C4C6C0D51710F5776126181176B8C
+      287DA13085AD398DBA3C99C43FA6CE3FACD140B2D540BEDD
+      3DCEE435DFEE34E2EF34E5F135E4F137E3F23AE0F23BE1F0
+      40DAE842D9DD45D9D243DACC41DBC73EDEBE3CDEBB40DDBB
+      48DCBA5ADEBD61D8C169D2C66FCEC275CBBE78C3B977B9B3
+      72A5A76F9AA16C909C6A8E99698C9768829769779E6D6CA1
+      6E64A36C5FA16A5DA1695CA15F579F58569C4F5999495E97
+      4D699C4F739F517DA35283A4548AA55994AB5A9DB55BA9BE
+      56B4C748CCD346D1D544D6D840D9DE3DDEE33DE5E541E6E4
+      53EBED5AECEF61EEF262EEF263EEF263EFF35FEFF35AEDF4
+      54EEF34DF1F14FF1F152F2F25AF1F365F1F373F0F483F2F5
+      97F5F999F4F99CF3F999F0F793E9F48DE2F18ADFEE88DBEB
+      89D6E794D4E496D4E399D5E39DD9E49EDBE49FDCE59CDBE6
+      9BDCE79BDAE69BD9E59BD7E49BD5E599D2E397CDE291C7DE
+      89BFDA7EBAD772B5D46AB2D166ADCE66AFCB69AECC70B1CC
+      86AECC88ABCA8BA9C88D9FC38599BF7B95BA708EB6668DB1
+      5A90AF5099AD4AA2AF4AAEB14BB4B151B7B058B5AD5DB5AE
+      63AEB26CA6B46F9FB56D9BB36995B2678BAF6084AA5B81A6
+      587A9C5979925B6D89666489755F8C855F90906498A168A0
+      AC6BA7B470B0B676B5B985B7B78CB2B892B2BD9AB4C3A1B9
+      C9AEC1CFB9CBD4C0D5DCC3DDDDC6E7DAD0EFD2DAF2C6DFF2
+      B9DFF0ACDBEBA0D2E294C6DB87BAD57EACCF7A9ECF7991CD
+      7384C86978C15D6BBB5064B5445EAD3B60AB2F60A62C61A3
+      2F5DA33D59A74853AA534FAC5D4BB06950B47150B37C5DB9
+   </palette>
+   <edit date="Sat Feb 08 21:03:58 -0500 2020" action="edit">
+      <edit filename="D:/Users/Sameul/Documents/Fractals/trial.flam3" index="0"/>
+   </edit>
+</flame>
+<flame version="EMBER-WIN-1.0.0.17" time="5" name="Flame_2020-02-08-214248_6" size="2880 1800" center="0.220424 0.0734023" scale="3710" rotate="173" supersample="2" filter="0.8" filter_shape="mitchell" temporal_filter_type="gaussian" temporal_filter_width="1" quality="1000" temporal_samples="100" sub_batch_size="10240" fuse="15" rand_range="1" background="0 0 0" brightness="0.55" gamma="3.6" highlight_power="1" logscale_k2="0" vibrancy="1" estimator_radius="0" estimator_minimum="0" estimator_curve="0.4" gamma_threshold="0.1" cam_zpos="0" cam_persp="0" cam_yaw="0" cam_pitch="0.523599" cam_dof="0" palette_mode="linear" interpolation="linear" interpolation_type="log" plugins="cross sineblur pre_eJulia bipolar post_polar2" new_linear="1" curves="0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 0 0 1 0.25 0.25 1 0.5 0.5 1 0.75 0.75 1 " overall_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " red_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " green_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 " blue_curve="0 0 0.25 0.25 0.5 0.5 0.75 0.75 1 1 ">
+   <xform weight="0.05" color="0" var_color="1" color_speed="-0.8" symmetry="2.6" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="0.314722 0.646929 -0.646929 0.314722 1.61481 0.740741" post="0.219152 0.975281 -0.975281 0.219152 1.74223 0.666344" chaos="1 1 1 1 0 0 " opacity="0.2"/>
+   <xform weight="0.25" color="1" var_color="1" color_speed="-0.1" symmetry="1.2" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="0.2"/>
+   <xform weight="0.25" color="0.121569" var_color="1" color_speed="0" symmetry="1" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.25" color="0.407843" var_color="1" color_speed="0.5" symmetry="0" name="" animate="1" cross="1.6" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="1 1 1 1 0 0 " opacity="1"/>
+   <xform weight="0.045" color="0" var_color="1" color_speed="1" symmetry="-1" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="1.2" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 0 0 0 1 0 " opacity="0.1"/>
+   <xform weight="0.05" color="1" var_color="1" color_speed="-1" symmetry="3" name="" animate="1" cross="1.6" sineblur="0.0004" sineblur_power="0.7" coefs="-0.719153 -0.01964 0.01964 -0.719153 0 0" post="0.999594 0.003489 -0.003489 0.999594 1.85334 0.058937" chaos="0 0 0 0 0 1 " opacity="0.2"/>
+   <finalxform color="0" var_color="1" color_speed="0.665049" symmetry="-0.330099" name="" animate="0" pre_eJulia="1" pre_eJulia_power="2" bipolar="2.95" bipolar_shift="-0.5" post_polar2="1" coefs="-14.992 5.54689 -2.30699 -16.9057 13.5243 -4.84804" opacity="1"/>
+   <palette count="256" format="RGB">
+      7A65B87979B77D83B9828DBC8494C1879CC7889EC889A0CA
+      8999C07F91B77689AE6C83A6637E9F5D789E57729E526E9E
+      4E6A9E3D5AA43555A32E51A32B4DA3294AA42A4AA32C4BA2
+      4154A74E59AD5B5EB36564BB706AC4736EC77672CA807BCC
+      8984CE9C99D1A3A5D2ABB2D3AEC0D8B2CEDDB1D2DFB1D7E2
+      A5E0E79CDEE394DDDF8ED5DC88CEDA85CBD783C8D47ABDCD
+      74B6C85EA8BE509DB64392AE3887A32E7C992A779426738F
+      225C7B22517322466B203C661E33611D305E1C2D5C1A2A5A
+      17295C0D38610C42660C4C6C0D51710F5776126181176B8C
+      287DA13085AD398DBA3C99C43FA6CE3FACD140B2D540BEDD
+      3DCEE435DFEE34E2EF34E5F135E4F137E3F23AE0F23BE1F0
+      40DAE842D9DD45D9D243DACC41DBC73EDEBE3CDEBB40DDBB
+      48DCBA5ADEBD61D8C169D2C66FCEC275CBBE78C3B977B9B3
+      72A5A76F9AA16C909C6A8E99698C9768829769779E6D6CA1
+      6E64A36C5FA16A5DA1695CA15F579F58569C4F5999495E97
+      4D699C4F739F517DA35283A4548AA55994AB5A9DB55BA9BE
+      56B4C748CCD346D1D544D6D840D9DE3DDEE33DE5E541E6E4
+      53EBED5AECEF61EEF262EEF263EEF263EFF35FEFF35AEDF4
+      54EEF34DF1F14FF1F152F2F25AF1F365F1F373F0F483F2F5
+      97F5F999F4F99CF3F999F0F793E9F48DE2F18ADFEE88DBEB
+      89D6E794D4E496D4E399D5E39DD9E49EDBE49FDCE59CDBE6
+      9BDCE79BDAE69BD9E59BD7E49BD5E599D2E397CDE291C7DE
+      89BFDA7EBAD772B5D46AB2D166ADCE66AFCB69AECC70B1CC
+      86AECC88ABCA8BA9C88D9FC38599BF7B95BA708EB6668DB1
+      5A90AF5099AD4AA2AF4AAEB14BB4B151B7B058B5AD5DB5AE
+      63AEB26CA6B46F9FB56D9BB36995B2678BAF6084AA5B81A6
+      587A9C5979925B6D89666489755F8C855F90906498A168A0
+      AC6BA7B470B0B676B5B985B7B78CB2B892B2BD9AB4C3A1B9
+      C9AEC1CFB9CBD4C0D5DCC3DDDDC6E7DAD0EFD2DAF2C6DFF2
+      B9DFF0ACDBEBA0D2E294C6DB87BAD57EACCF7A9ECF7991CD
+      7384C86978C15D6BBB5064B5445EAD3B60AB2F60A62C61A3
+      2F5DA33D59A74853AA534FAC5D4BB06950B47150B37C5DB9
+   </palette>
+   <edit date="Sat Feb 08 21:03:58 -0500 2020" action="edit">
+      <edit filename="D:/Users/Sameul/Documents/Fractals/trial.flam3" index="0"/>
+   </edit>
+</flame>
+</flames>
